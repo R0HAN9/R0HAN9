@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Algorithms, Security And Architecture Designs**
 
-- 👨‍💻 All of my projects are available at [rohangupta.com](rohangupta.com)
+- 👨‍💻 All of my projects are available at [R0HAN](https://github.com/R0HAN9)
 
 - 📝 I regularly write articles on [blogRohan.com](blogRohan.com)
 
