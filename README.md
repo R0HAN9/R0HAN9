@@ -13,13 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [R0HAN](https://github.com/R0HAN9)
 
-- 📝 I regularly write articles on [blogRohan.com](blogRohan.com)
+- 📝 I regularly write codes on [Rohan's LeetCode](https://leetcode.com/u/R0HAN_18/)
 
 - 💬 Ask me about **Java And Backend**
 
-- 📫 How to reach me **example@gmail.com**
+- 📫 How to reach me **sde.rohangupta@gmail.com**
 
-- 📄 Know about my experiences [myResume.com](myResume.com)
+- 📄 Know about my experiences [myResume](myResume.com)
 
 - ⚡ Fun fact **I am a Human!**
 
