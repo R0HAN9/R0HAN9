@@ -19,13 +19,13 @@
 
 - 📫 How to reach me **sde.rohangupta@gmail.com**
 
-- 📄 Know about my experiences [myResume](myResume.com)
+- 📄 Know about my experiences [myResume](https://www.linkedin.com/in/rohan-gupta-668458219/)
 
 - ⚡ Fun fact **I am a Human!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rohanslinkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohanslinkedin.com" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohan-gupta-668458219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohanslinkedin.com" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rohanleetcode.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohanleetcode.com" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/interviewbit.comm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="interviewbit.comm" height="30" width="40" /></a>
 </p>
