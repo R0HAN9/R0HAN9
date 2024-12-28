@@ -3,11 +3,11 @@
 
 
 <h1 align="center">ROHAN .java</h1>
-<h3 align="center">A passionate Backend developer from India!</h3>
+<h3 align="center">A passionate Backend developer!</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400">
 
 
-- 🔭 I’m currently working on **Backend Project Using Spring Boot**
+- 🔭 I’m currently working on **Backend Projects Using Spring Boot, FastAPI, Databases and All New Technologies!**
 
 - 🌱 I’m currently learning **Algorithms, Security And Architecture Designs**
 
